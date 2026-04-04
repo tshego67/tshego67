@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm an Aspiring Cybersecurity Professional
 
-<!--
-**tshego67/tshego67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Penetration Testing | 🛡️ Security Analysis | ☁️ Future Cloud Security Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a hands-on cybersecurity learner focused on penetration testing and offensive security fundamentals while progressing toward a career in **Cloud Security Engineering**.
+
+My work emphasizes practical lab simulations, vulnerability analysis, and professional security reporting.
+
+---
+
+## 🔥 Cybersecurity Portfolio
+
+### 🔐 Penetration Testing Module
+
+* Malware Simulation
+* Network Reconnaissance (Nmap)
+* DoS Attack Simulation
+* SQL Injection & XSS Exploitation
+
+➡️ **[View Full Portfolio](https://github.com/YOUR-USERNAME/penetration-testing-portfolio)**
+
+---
+
+## 🛠 Technical Skills
+
+**Operating Systems**
+
+* Kali Linux
+* Linux Administration
+* Virtualized Lab Environments
+
+**Security Skills**
+
+* Vulnerability Assessment
+* Network Scanning
+* Web Application Testing
+* Security Documentation
+* Attack Simulation
+
+**Tools**
+
+* Nmap
+* slowhttptest
+* Apache & MariaDB
+* Bash Scripting
+* VirtualBox / VMware
+
+---
+
+## 📚 Current Learning Path
+
+Penetration Testing → Cloud Security → Detection Engineering
+
+---
+
+## 🎯 Career Goal
+
+To become a **Cloud Security Engineer** specializing in securing modern cloud infrastructure against real-world attack techniques.
+
+---
+
+## ⚖️ Ethics Statement
+
+All demonstrations were performed in controlled virtual lab environments strictly for educational purposes.
