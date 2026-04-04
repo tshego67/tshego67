@@ -21,7 +21,7 @@ My work emphasizes practical lab simulations, vulnerability analysis, and profes
 * DoS Attack Simulation
 * SQL Injection & XSS Exploitation
 
-➡️ **[View Full Portfolio](https://github.com/YOUR-USERNAME/penetration-testing-portfolio)**
+➡️ **[View Full Portfolio](https://github.com/tshego67/penetration-testing-portfolio)**
 
 ---
 
