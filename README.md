@@ -112,14 +112,6 @@ Detailed mapping between projects and cybersecurity competencies.
 
 ---
 
-## 📜 Certifications & Learning
-
-Active continuous learning path toward professional cybersecurity certifications.
-
-📄 See: **certifications.md**
-
----
-
 ## 🧭 Career Roadmap
 
 Penetration Testing → Ethical Hacking → Cloud Security Engineering
